@@ -17,7 +17,13 @@ DevOps / Cloud Engineer | CI/CD automation | AWS · Linux · Jenkins
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode&perline=6)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
-- [AI-DevOps-Kubernetes-Agent](https://github.com/Subrat44/AI-DevOps-Kubernetes-Agent): short description of what it does
+- [AI-DevOps-Kubernetes-Agent](https://github.com/Subrat44/AI-DevOps-Kubernetes-Agent): Build an AI-powered Kubernetes troubleshooting platform that can:
+Investigate Kubernetes failures
+Analyse logs, events, and cluster state
+Identify root causes
+Suggest fixes
+Store investigation history
+Be deployed publicly as a real application
 - [dairy-webapp](https://github.com/Subrat44/dairy-webapp): DevOps dairy web application
 
 ### 📫 Connect with me
